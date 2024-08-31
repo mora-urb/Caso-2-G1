@@ -115,7 +115,7 @@ En esta pantalla se muestra un adecuado comportamiento por parte de los usuarios
 #### Análisis General
 Finalmente, la tarea número 6 se registró que un 11.1% de los 9 usuarios logró completarla de manera directa y un 44.4% no logró finalizar la tarea. A su vez, se observó una alta tasa de clics erróneos del 84% y un tiempo promedio bastante elevado para completar la tarea, que fue de 199.8 segundos. Estos resultados indican que la tarea es considerablemente compleja y poco intuitiva, lo que probablemente generó confusión y dificultades para los usuarios. Es necesario realizar ajustes significativos en el diseño de la tarea para mejorar la claridad y facilitar su finalización de manera más rápida y sin errores. 
 
-![Imagen Analisis General 6](imagenes/image(1).png)
+![Imagen Analisis General 6](imagenes/analisis.png)
 
 
 ## Correcciones
