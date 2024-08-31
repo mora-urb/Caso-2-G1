@@ -128,3 +128,10 @@ Finalmente, la tarea número 6 se registró que un 11.1% de los 9 usuarios logr�
 
 ![Imagen de Correcciones 1.2](imagenes/imagen_2024-08-30_164704347.png)
 
+##Links de Interes
+Se adjuntas los siguientes enlaces que contienen la invitación a realizar la prueba de la interfaz via Maze y la visualización del diseño por medio de Figma respectivamente:
+  1. https://t.maze.co/277404565?guerilla=true
+  2. https://www.figma.com/design/tAiiqoscfDGNppwSTlDPej/Caso-%232-Dise%C3%B1o?node-id=0-1&t=SQc1A4IonQHB1Gsb-1
+
+
+
