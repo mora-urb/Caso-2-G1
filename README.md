@@ -45,7 +45,7 @@ En la siguiente ventana, se hizo un correcto uso del modo nocturno, a pesar de q
 
 En la siguiente ventana se tiene como objetivo guardar los cambios, como se puede apreciar que la prueba fué exitosa y se dió a entender la funcionalidad de la misma ya que el único botón seleccionado fué el de “Guardar”.
 
-![Imagen Tarea 2.3](imagenes/imagen_2024-08-30_164542275.png)
+![Imagen Tarea 2.3](imagenes/imagen_2024-08-30_181000410.png)
 
 #### Análisis General
 En la tarea número 2 se puede observar que un 33.3% de los usuarios lograron completar la misión de forma directa, un 44.4% de los usuarios no lograron finalizar la tarea. A su vez, se registró una tasa de clics erróneos del 60%, destacando una interfaz confusa para el usuario. El tiempo promedio para completar la tarea fue de 24.3 segundos. Estos resultados indican que la tarea podría beneficiarse de mejoras en su diseño para ser más intuitiva y facilitar un recorrido más claro y directo para los usuarios, reduciendo la posibilidad de errores y aumentando la tasa de éxito.
